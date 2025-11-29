@@ -11,3 +11,5 @@ In this project, the Human Resources (HR) dataset for Atlas Labs was utilized, c
 
 Using Power BI, I developed an interactive and visually intuitive dashboard that produced several valuable insights on workforce dynamics at Atlas Labs and proffered data-driven retention strategies to mitigate burnout and reduce the financial impact of employee attrition.
 ## What I Analyzed
+<img width="1088" height="724" alt="image" src="https://github.com/user-attachments/assets/48a0c068-d148-40f4-970e-6aae7ae5d2a5" />
+<p align="center"><i>Model View of Datasets</i></p>
