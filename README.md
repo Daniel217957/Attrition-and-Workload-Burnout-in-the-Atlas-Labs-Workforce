@@ -13,3 +13,6 @@ Using Power BI, I developed an interactive and visually intuitive dashboard that
 ## What I Analyzed
 <img width="1088" height="724" alt="image" src="https://github.com/user-attachments/assets/48a0c068-d148-40f4-970e-6aae7ae5d2a5" />
 <p align="center"><i>Model View of Datasets</i></p>
+I analyzed 6 tables: 5 were dimension tables(prefixed Dim), which included Employee, EducationLevel, RatingLevel, SatisfiedLevel and Date. All these were joined to the fact table (prefixed Fact), Performance Rating, which together conform to a star schema. An additional "table": _Measures, contained several measures like the percentage attrition rate, average salary, environmental satisfaction and many others I calculated using DAX. 
+
+## Overview
