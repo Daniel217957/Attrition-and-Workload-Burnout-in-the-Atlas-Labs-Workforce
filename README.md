@@ -16,3 +16,12 @@ Using Power BI, I developed an interactive and visually intuitive dashboard that
 I analyzed 6 tables: 5 were dimension tables(prefixed Dim), which included Employee, EducationLevel, RatingLevel, SatisfiedLevel and Date. All these were joined to the fact table (prefixed Fact), Performance Rating, which together conform to a star schema. An additional "table": _Measures, contained several measures like the percentage attrition rate, average salary, environmental satisfaction and many others I calculated using DAX. 
 
 ## Overview
+![Overview of Atlas Labs](Attrition%20Folder/3_5_bookmarks_solution_1.png)
+The dashboard above displays some key performance indicators (KPIs):	Total Employees: 1470. Active Employees: 1233. Inactive Employees: 237. % Attrition Rate: 16.1%.
+The stacked column chart shows employee hiring trends over the years, spanning 2012 to 2022, and the proportion of employees lost to attrition for each year of employment.
+The bar chart shows that the Technology department has the highest number of active employees, followed by the Sales department, with Human Resources contributing the fewest. The treemap further breaks down each department by job roles and active employee count.
+### Insights
+The organization has a high overall attrition rate of 16.1%, indicating a significant systemic problem in retention, especially within core technical and sales roles like Software Engineer (inferred from treemap size) and Sales Representatives.
+
+The hiring trends over the years do not show much variation in the ratio of active to inactive employees, implying that the onboarding process at Atlas Labs contributes little to attrition.
+![Employee Demographics](
