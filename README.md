@@ -1,2 +1,2 @@
 # Attrition-and-Workload-Burnout-in-the-Atlas-Labs-Workforce
-In this project, I performed an analysis of the HR data of Atlas Labs (fictional). I dissected the high 16.1% employee attrition rate by examining workforce demographics, segmented performance and satisfaction trends, and key underlying drivers like excessive overtime and business travel. In the end, I expansiated several recommendations.
+![Cover Image](
