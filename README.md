@@ -67,6 +67,18 @@ A growing divergence between Self Rating and Manager Rating is a strong sign of 
 
 Similarly, a declining trend in Work Life Balance and Environment Satisfaction scores, especially in the 1-2 years leading up to the current date, signals an employee is at high risk of leaving, even if their Manager Rating remains high.
 
+## Recommendations
+#### Implement a Targeted Retention Strategy for High-Risk Roles
+Focus resources on the statistically highest-risk groups identified on the Attrition page, particularly Sales Representatives and specific roles within the Technology department. This involves conducting "stay interviews" with employees in these specific roles, asking focused questions about workload, management support, and career opportunities to gather qualitative data that complements the quantitative dashboard data.
+
+Then, create a "Retention Dashboard Filter" that allows managers of these "hotspot" departments to track the satisfaction and performance metrics of their most vulnerable employees (e.g., those with declining Work Life Balance scores) in real-time. This will enable proactive intervention rather than reactive exit interviews.
+
+#### Establish a Proactive Career Development and Compensation Review Program
+Given the predominantly young, ambitious demographic (20-39 age group), the organization must address the need for a clear path upward. The high attrition suggests employees are leaving for better career opportunities elsewhere. A structured program should be implemented that guarantees a career path review and competitive market compensation.
+
+#### Mandate and Enforce a Work-Life Balance Policy
+This stems from the apparent correlation between high attrition and metrics like overtime and frequent business travel. A formal, top-down policy must be introduced that limits overtime (including voluntary overtime) and implements mandatory rest periods after extensive business travel. 
+
 
 
 
