@@ -24,4 +24,16 @@ The bar chart shows that the Technology department has the highest number of act
 The organization has a high overall attrition rate of 16.1%, indicating a significant systemic problem in retention, especially within core technical and sales roles like Software Engineer (inferred from treemap size) and Sales Representatives.
 
 The hiring trends over the years do not show much variation in the ratio of active to inactive employees, implying that the onboarding process at Atlas Labs contributes little to attrition.
-![Employee Demographics](
+
+## Demographics
+![Employee Demographics](Attrition%20Folder/3_5_bookmarks_solution_2.png)
+<p align="center"><i>Employee Demographics</i></p>
+The Employees by Age column chart categorizes the workforce into age groups: <20, 20-29, 30-39, 40-49, 50>. We see that the majority of Atlas Labs' employees fall within the 20-29 age group, followed by 30-39, 40-49, and less than 20, with the employees aged 50 and above the fewest. The 100% stacked column chart shows the distribution of employees by gender among the different age groups.
+
+Sorting the employees by marital status revealed that over 42% were married, about 37% single, and 20% divorced. 
+
+Investigating the average salary of the employees among the broad ethnic groups present revealed significant disparity between the different ethnic groups represented. Whites (who happened to be the majority of the employees) and Native Hawaiians had the highest average salary. Besides other ethnic groups that were not clearly stated, employees of the mixed ethnic group had the lowest.
+### Insights
+Demographic information is key for tailoring benefits packages and wellness programs to the actual needs of the workforce. For instance, strategies targeted to the 20-29 age group (a period driven by career growth and competitive compensation), will reduce the attrition rate.
+
+## Employee Performance Tracker
