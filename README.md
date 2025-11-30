@@ -82,6 +82,8 @@ This stems from the apparent correlation between high attrition and metrics like
 #### Performance Tracking is Top Priority
 From the analysis, one can appreciate an organization like Atlas Labs that has periodic checkups with employees on satisfaction levels and performance ratings. Without this information, an analysis like this that extracts the root causes of employee attrition cannot be carried out. Hence, performance tracking in any organization is top priority!
 
+For the interactive dashboard video, click [here](https://drive.google.com/file/d/1AIPf3CQyeqaEF9-QDVvdWBbtLoKzqWVJ/view?usp=sharing).
+
 
 
 ![The End](Attrition%20Folder/Gemini_Generated_Image_uixym7uixym7uixy.png)
