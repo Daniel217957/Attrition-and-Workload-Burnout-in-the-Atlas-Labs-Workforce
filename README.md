@@ -79,6 +79,9 @@ Given the predominantly young, ambitious demographic (20-39 age group), the orga
 #### Mandate and Enforce a Work-Life Balance Policy
 This stems from the apparent correlation between high attrition and metrics like overtime and frequent business travel. A formal, top-down policy must be introduced that limits overtime (including voluntary overtime) and implements mandatory rest periods after extensive business travel. 
 
+#### Performance Tracking is Top Priority
+From the analysis, one can appreciate an organization like Atlas Labs that has periodic checkups with employees on satisfaction levels and performance ratings. Without this information, an analysis like this that extracts the root causes of employee attrition cannot be carried out. Hence, performance tracking in any organization is top priority!
+
 
 
 ![The End](Attrition%20Folder/Gemini_Generated_Image_uixym7uixym7uixy.png)
