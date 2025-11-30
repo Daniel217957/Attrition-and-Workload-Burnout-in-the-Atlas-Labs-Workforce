@@ -81,4 +81,4 @@ This stems from the apparent correlation between high attrition and metrics like
 
 
 
-
+![The End](Attrition%20Folder/Gemini_Generated_Image_uixym7uixym7uixy.png)
