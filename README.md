@@ -35,5 +35,19 @@ Sorting the employees by marital status revealed that over 42% were married, abo
 Investigating the average salary of the employees among the broad ethnic groups present revealed significant disparity between the different ethnic groups represented. Whites (who happened to be the majority of the employees) and Native Hawaiians had the highest average salary. Besides other ethnic groups that were not clearly stated, employees of the mixed ethnic group had the lowest.
 ### Insights
 Demographic information is key for tailoring benefits packages and wellness programs to the actual needs of the workforce. For instance, strategies targeted to the 20-29 age group (a period driven by career growth and competitive compensation), will reduce the attrition rate.
+## Examining Attrition
 
 ## Employee Performance Tracker
+![Employee Performance Tracker](Attrition%20Folder/3_5_bookmarks_solution_3.png)
+<p align="center"><i>Performance Tracker</i></p>
+The dashboard above shows many important metrics (satisfaction level and rating) that affect attrition. The clear definition of a 5-point rating scale (for performance) and a satisfaction scale provides a standardized, quantifiable way to measure qualitative data. This is crucial for comparing performance and satisfaction across the company.
+
+Individual trend charts	track historical scores for Self Rating, Manager Rating, Environment Satisfaction, Relationship Satisfaction, and Work Life Balance over the Year. A dropdown slicer at the top left enables selecting a particular employee (Alethea Heeney is selected in the dashboard currently).
+### Insights
+A growing divergence between Self Rating and Manager Rating is a strong sign of dissatisfaction and potential attrition. 
+
+Similarly, a declining trend in Work Life Balance and Environment Satisfaction scores, especially in the 1-2 years leading up to the current date, signals an employee is at high risk of leaving, even if their Manager Rating remains high.
+
+
+
+
