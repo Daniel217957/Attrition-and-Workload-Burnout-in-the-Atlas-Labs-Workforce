@@ -36,6 +36,25 @@ Investigating the average salary of the employees among the broad ethnic groups 
 ### Insights
 Demographic information is key for tailoring benefits packages and wellness programs to the actual needs of the workforce. For instance, strategies targeted to the 20-29 age group (a period driven by career growth and competitive compensation), will reduce the attrition rate.
 ## Examining Attrition
+![Attrition](Attrition%20Folder/3_5_bookmarks_solution_4.png)
+<p align="center"><i>Attrition</i></p>
+I took a deep dive into some employment conditions to connect attrition and burnout patterns. These included: department, job role, hire date, business travel frequency, overtime requirement and tenure of employment.
+
+1. Sales representatives (Sales department) had the highest attrition rate in the organization.
+
+2. The rate of attrition was significantly higher among employees who were required to work overtime.
+
+3. 2017 had the lowest attrition rate.
+
+4. Employees who had stayed less than 2 years had the highest attrition rates.
+
+### Insights
+1. This immediately directs HR and management to the most critical areas for intervention.
+
+2. A high attrition rate for employees with overtime is a direct indicator of burnout and work-life balance failure.
+
+3. The data confirms high attrition among employees with frequent business travel and overtime, a clear sign that workload and demands are unsustainable, directly impacting employee well-being.
+
 
 ## Employee Performance Tracker
 ![Employee Performance Tracker](Attrition%20Folder/3_5_bookmarks_solution_3.png)
